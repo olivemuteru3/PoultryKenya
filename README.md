@@ -12,7 +12,7 @@ The system keeps record of feeds in the farm
 
 ## I am hoping you will enjoy using our system.
 
-A preview of the system dashboard
+A preview of the system dashboard.
 
 ![image](https://github.com/olivemuteru3/PoultryKenya/assets/162121704/cbaf00ac-eee3-4331-bd58-b564b5d39394)
 
