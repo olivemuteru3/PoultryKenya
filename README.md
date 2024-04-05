@@ -8,7 +8,7 @@ The project mainly includes farmers adding individual chickens as well as record
 
 The system also allows the user to sale the eggs. After sales a receipt to the person purchasing the eggs is generated. 
 
-The system keeps record of feeds in the farm
+The system keeps record of feeds in the farm.
 
 ## I am hoping you will enjoy using our system.
 
